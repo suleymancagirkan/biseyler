@@ -1,0 +1,16 @@
+{
+  "OwnerID":["852596827713962066", "903291244581646347"], 
+  "Prefix":".",  
+  "guildID":"904021027305185331", 
+  "logChannelID":"891276505664061470", 
+  "channelProtection":true,
+  "roleProtection":true,
+  "botProtection":true,
+  "banProtection":true,
+  "kickProtection":true,
+  "serverProtection":true,
+  "rightClickProtection":true, 
+  "whitelist":["745286954752671744", "", ""], 
+  "boosterRole":"891272540314542101", 
+  "jailRole":"891275394278379530"
+}
